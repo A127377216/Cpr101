@@ -1,0 +1,7 @@
+#include <iostream>
+
+int main()
+{
+    std::cout << "My name is Abhayjeet Singh\n";
+    std::cout << "Student id - 127377216\n";
+}
